@@ -1,0 +1,65 @@
+__tc1
+HP=2, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=2, level=3, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=2, level=4, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=2, level=6, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=2, level=8, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=2, level=10, remedy=0, maidenkiss=0, phoenixdown=0, rescue=1
+
+__tc2
+HP=217, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=239, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=263, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=283, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=307, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=331, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=353, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=353, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=263, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=213, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=163, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=32, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=-443, level=2, remedy=0, maidenkiss=0, phoenixdown=0, rescue=0
+
+__tc3
+HP=500, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=310, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=420, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=430, level=1, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=430, level=1, remedy=3, maidenkiss=2, phoenixdown=1, rescue=-1
+HP=430, level=1, remedy=3, maidenkiss=2, phoenixdown=1, rescue=0
+
+__tc4
+HP=377, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=117, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=191, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=257, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=331, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=6, remedy=98, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=1, remedy=98, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=1, remedy=98, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=6, remedy=98, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=6, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=7, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=8, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=9, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=10, remedy=99, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=397, level=10, remedy=99, maidenkiss=0, phoenixdown=0, rescue=1
+
+__tc5
+HP=610, level=6, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=377, level=6, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=233, level=6, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=144, level=6, remedy=0, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=144, level=6, remedy=0, maidenkiss=0, phoenixdown=1, rescue=-1
+HP=144, level=6, remedy=1, maidenkiss=0, phoenixdown=1, rescue=-1
+HP=144, level=1, remedy=1, maidenkiss=0, phoenixdown=1, rescue=-1
+HP=144, level=1, remedy=1, maidenkiss=0, phoenixdown=1, rescue=-1
+HP=610, level=6, remedy=1, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=610, level=7, remedy=1, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=377, level=7, remedy=1, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=225, level=7, remedy=1, maidenkiss=0, phoenixdown=0, rescue=-1
+HP=225, level=7, remedy=1, maidenkiss=0, phoenixdown=1, rescue=-1
+HP=410, level=7, remedy=1, maidenkiss=0, phoenixdown=0, rescue=1
